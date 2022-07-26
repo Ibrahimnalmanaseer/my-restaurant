@@ -5,6 +5,10 @@
 ***Your favorite butcher! The best grades of meat and chicken and seafood both fresh and frozen.***
 <br>
 
+For more info please [Contact us](https://www.facebook.com/CutsJo/)
+
+
+
 <br>
 <br>
 
@@ -14,16 +18,33 @@
 
 <br>
 
+<img 
+  align="center"
+  width="300"
+  height="200"
+  src="Images/salad2.jpg">
+
+
 | Salads     | Description | Price   |
 | :---        |    :----:   |          ---: |
 | Mixed Greens     | Sun-dried tomatoes & Cherry tomatoes topped with parmesan      | 5.5 JD   |
-| Orange Walnut Salad  | A Mix of greens, Orange wedges, Lemon, Beetroot, Cherry tomatoes Topped with Caramelized walnuts |4.5 JD|
+| Orange Walnut Salad  | A Mix of greens, Orange wedges, Lemon, Beetroot, Cherry tomatoes Topped  |4.5 JD|
  
+
+
+
 <br>
 <br>
             
 
 <hr /><br><br>
+
+
+<img 
+  align="center"
+  width="300"
+  height="200"
+  src="Images/burger.jpg">
 
 | Burger    | Description | Price   |
 | :---        |    :----:   |          ---: |
