@@ -54,9 +54,20 @@ For more info please [Contact us](https://www.facebook.com/CutsJo/)
 | Mushroom Burger     | Mushrooms, Mozzarella, Arugula and our special dijonnaise sauce.      | 12 JD   |
 | The Burger    | Crispy Beef Bacon, Caramelized Onions, Crispy Onions,Cheddar Cheese      | 12.50 JD   |
 
+<br>
+<br>
+            
 
+<hr /><br><br>
 
+## Wire Frame:
+<br>
 
+<img 
+  align="center"
+  width="300"
+  height="200"
+  src="Images/Capture.PNG">
 
 
 
